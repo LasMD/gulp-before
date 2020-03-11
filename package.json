@@ -1,5 +1,5 @@
 {
-  "name": "@_lmd/gulp-before",
+  "name": "gulp-before",
   "version": "1.0.0",
   "description": "peform trivial operations before starting each gulp stream",
   "main": "index.js",
@@ -23,7 +23,7 @@
   },
   "homepage": "https://github.com/LasMD/gulp-before#readme",
   "devDependencies": {
-    "ava": "^3.3.0",
+    "ava": "^3.3.0"
   },
   "dependencies": {
     "gulp-changed": "^4.0.2",
